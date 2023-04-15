@@ -10,5 +10,31 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "lista": [
+   {
+      "id": 1,
+      "nombre": "Camiseta Boca Juniors Titular",
+      "precio": 34999,
+      "imagen": "./assets/camiseta_titular.jpg"
+   },
+   {
+      "id": 2,
+      "nombre": "Camiseta Boca Juniors Suplente ",
+      "precio": 34999,
+      "imagen": "./assets/camiseta_alternativa.jpg"
+   },
+   {
+      "id": 3,
+      "nombre": "Shorts Boca Juniors Titular",
+      "precio": 15999,
+      "imagen": "./assets/short_titular.jpg"
+   },
+   {
+      "id": 4,
+      "nombre": "Shorts Boca Juniors suplente",
+      "precio": 11999,
+      "imagen": "./assets/short_alternativo.jpg"
+   }
+]
 }
