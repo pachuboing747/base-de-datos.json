@@ -36,5 +36,11 @@
       "precio": 11999,
       "imagen": "./assets/short_alternativo.jpg"
    }
+     {
+      "id": ,
+      "nombre": "jjjj",
+      "precio": 11999,
+      "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bocashop.com.ar%2Fhe6323-camiseta-titular-boca-jrs-22-23%2Fp&psig=AOvVaw2X0PbvjyLTwe3uiy-7bqy4&ust=1681677454169000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMi0he3erP4CFQAAAAAdAAAAABAD"
+   }
 ]
 }
