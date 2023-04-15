@@ -16,7 +16,7 @@
       "id": 1,
       "nombre": "Camiseta Boca Juniors Titular",
       "precio": 34999,
-      "imagen": "https://github.com/pachuboing747/base-de-datos.json/blob/master/Camiseta_titular.jpg"
+      "imagen": "./assets/camiseta_titular.jpg"
    },
    {
       "id": 2,
@@ -36,13 +36,6 @@
       "precio": 11999,
       "imagen": "./assets/short_alternativo.jpg"
    }
-    
-     {
-      "id": 5,
-      "nombre": "Shorts Boca Juniors suplente",
-      "precio": 11999,
-      "imagen": "./assets/short_alternativo.jpg"
-   }
-    
+   
 ]
 }
