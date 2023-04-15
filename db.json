@@ -37,5 +37,12 @@
       "imagen": "./assets/short_alternativo.jpg"
    }
     
+     {
+      "id": 5,
+      "nombre": "Shorts Boca Juniors suplente",
+      "precio": 11999,
+      "imagen": "./assets/short_alternativo.jpg"
+   }
+    
 ]
 }
