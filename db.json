@@ -16,7 +16,7 @@
       "id": 1,
       "nombre": "Camiseta Boca Juniors Titular",
       "precio": 34999,
-      "imagen": "	https://http2.mlstatic.com/D_NQ_NP_645272-MLA53639374709_022023-O.webp"
+      "imagen": "./assets/camiseta_titular.jpg"
    },
    {
       "id": 2,
