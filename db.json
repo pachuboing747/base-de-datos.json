@@ -11,30 +11,18 @@
   "profile": {
     "name": "typicode"
   },
-  "lista": [
+  "CABJ": [
    {
       "id": 1,
-      "nombre": "Camiseta Boca Juniors Titular",
-      "precio": 34999,
-      "imagen": "./assets/camiseta_titular.jpg"
+      "nombre": "Club Atletico Boca Juniors",
+      "fecha de fundacion": "03 de Abril de 1905",
+      "ubicacion": "Bransen 805"
    },
    {
       "id": 2,
-      "nombre": "Camiseta Boca Juniors Suplente ",
-      "precio": 34999,
-      "imagen": "./assets/camiseta_alternativa.jpg"
-   },
-   {
-      "id": 3,
-      "nombre": "Shorts Boca Juniors Titular",
-      "precio": 15999,
-      "imagen": "./assets/short_titular.jpg"
-   },
-   {
-      "id": 4,
-      "nombre": "Shorts Boca Juniors suplente",
-      "precio": 11999,
-      "imagen": "./assets/short_alternativo.jpg"
-   }
+      "Estadio": "Alberto J. Armando",
+      "Apodo": "Xeneize",
+      "titulos": 74
+   }, 
 ]
 }
