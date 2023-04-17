@@ -11,30 +11,18 @@
   "profile": {
     "name": "typicode"
   },
-  "lista": [
+  "Datos": [
    {
       "id": 1,
-      "nombre": "Camiseta Boca Juniors Titular",
-      "precio": 34999,
-      "imagen": "./assets/camiseta_titular.jpg"
+      "a": "Club Atletico Boca Juniors",
+      "b": "fundado el 03 de Abril de 1903",
+      "c": "Apodo: Xeneize"
    },
    {
       "id": 2,
-      "nombre": "Camiseta Boca Juniors Suplente ",
-      "precio": 34999,
-      "imagen": "./assets/camiseta_alternativa.jpg"
+      "a": "Estadio: Alberto J.Armando",
+      "b": "Titulos Oficiales: 74",
+      "c": "Hinchada: La 12"
    },
-   {
-      "id": 3,
-      "nombre": "Shorts Boca Juniors Titular",
-      "precio": 15999,
-      "imagen": "./assets/short_titular.jpg"
-   },
-   {
-      "id": 4,
-      "nombre": "Shorts Boca Juniors suplente",
-      "precio": 11999,
-      "imagen": "./assets/short_alternativo.jpg"
-   }
 ]
 }
