@@ -1,13 +1,7 @@
-{
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 4, "title": "Post 4" },
-    { "id": 5, "title": "Post 5" },
-    { "id": 6, "title": "Post 6" },
-    { "id": 7, "title": "Post 7" }
-    
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -19,45 +13,27 @@
   "titulos": [
    {
       "id": 1,
-      "nombre": "Primera Division",
-      "cantidad": 35,
-      "titulo": "Nacional"
+      "nombre": "titulos nacionales",
+      "cantidad": 52,
+      "titulo": "nacional"
    },
    {
       "id": 2,
-      "nombre": "Copa Intercontinental ",
-      "cantidad": 3,
-      "titulo": "Internacional"
+      "nombre": "titulos internacinales",
+      "cantidad": 22,
+      "titulo": "internacional"
    },
    {
       "id": 3,
-      "nombre": "Libertadores",
-      "cantidad": 6,
-      "titulo": "Internacional"
+      "nombre": "copa intercontinental",
+      "cantidad": 3,
+      "titulo": "internacional"
    },
    {
       "id": 4,
-      "nombre": "Sudamericana",
-      "cantidad": 2,
+      "nombre": "copa libertadores",
+      "cantidad": 6,
       "titulo": "internacional"
-   },
-     {
-      "id": 5,
-      "nombre": "Recopa Sudamericana",
-      "cantidad": 4,
-      "titulo": "internacional"
-   },
-  {
-      "id": 6,
-      "nombre": "Otros Titulos Nacionales",
-      "cantidad": 17,
-      "titulo": "Nacional"
-   },
- {
-      "id": 7,
-      "nombre": "Otros Titulos Internacionales",
-      "cantidad": 7,
-      "titulo": "Internacional"
    }
 ]
 }
