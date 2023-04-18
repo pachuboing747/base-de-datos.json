@@ -12,11 +12,11 @@
     "name": "typicode"
   },
   "lista": [
-  {
-   "id": 1,
-   "nombre": "Club Atletico Boca Juniors",
-   "titulos": " 74 titulos Nacionales e Internacionales",
-   "descensos": "0 decensos"
-}
+   {
+      "id": 1,
+      "nombre": "Club Atletico Boca Juniors",
+      "titulos": " 74 Nacionales e Internacionales",
+      "descensos": "0 descensos"
+   }
 ]
 }
