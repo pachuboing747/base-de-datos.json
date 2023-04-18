@@ -11,28 +11,30 @@
   "profile": {
     "name": "typicode"
   },
-  "titulos": [
+  "lista": [
    {
       "id": 1,
-      "nombre": "Boca Juniors"
-      "cantidad":74,
-      "titulo": "nacionales e Internacionales"
-      
+      "nombre": "Camiseta Boca Juniors Titular",
+      "precio": 34999,
+      "imagen": "./assets/camiseta_titular.jpg"
    },
-    {
+   {
       "id": 2,
-      "nombre": "Titulos Nacionales",
-      "cantidad":52,
-      "titulo": "Nacional"
-      
-   }, 
-    {
+      "nombre": "Camiseta Boca Juniors Suplente ",
+      "precio": 34999,
+      "imagen": "./assets/camiseta_alternativa.jpg"
+   },
+   {
       "id": 3,
-      "nombre": "Titulos Internacionales",
-      "cantidad": 22,
-      "titulo": "internacional"
-      
+      "nombre": "Shorts Boca Juniors Titular",
+      "precio": 15999,
+      "imagen": "./assets/short_titular.jpg"
+   },
+   {
+      "id": 4,
+      "nombre": "Shorts Boca Juniors suplente",
+      "precio": 11999,
+      "imagen": "./assets/short_alternativo.jpg"
    }
- 
 ]
 }
