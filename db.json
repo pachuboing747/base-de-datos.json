@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "titulos": [
+    { "id": 1, "Boca Juniors": "fundado el 3 de Abril de 1905" },
+    { "id": 2, "Tittulos Nacionales": "52" },
+    { "id": 3, "Titulos Internacionales": "22" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -10,31 +10,6 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "titulos": [
-   {
-      "id": 1,
-      "nombre": "titulos nacionales",
-      "cantidad": 52,
-      "titulo": "nacional"
-   },
-   {
-      "id": 2,
-      "nombre": "titulos internacinales",
-      "cantidad": 22,
-      "titulo": "internacional"
-   },
-   {
-      "id": 3,
-      "nombre": "copa intercontinental",
-      "cantidad": 3,
-      "titulo": "internacional"
-   },
-   {
-      "id": 4,
-      "nombre": "copa libertadores",
-      "cantidad": 6,
-      "titulo": "internacional"
-   }
-]
+  }
 }
+
