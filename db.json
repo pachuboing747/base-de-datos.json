@@ -14,21 +14,24 @@
   "titulos": [
    {
       "id": 1,
-      "nombre": "Boca Juniors",
-      "titulo": "nacionales e Internacionales",
+      "nombre": "Boca Juniors",}
       "cantidad":74,
+      "titulo": "nacionales e Internacionales",
+      
    },
     {
       "id": 2,
       "nombre": "Titulos Nacionales",
-      "titulo": "Nacional",
       "cantidad":52,
+      "titulo": "Nacional",
+      
    }, 
     {
       "id": 3,
       "nombre": "Titulos Internacionales",
-      "titulo": "internacional",
       "cantidad": 22,
+      "titulo": "internacional",
+      
    }
  
 ]
