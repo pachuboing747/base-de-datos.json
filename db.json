@@ -35,24 +35,24 @@
       "nombre": "Sudamericana",
       "cantidad": 2,
       "titulo": "internacional"
-   }
+   },
      {
       "id": 5,
       "nombre": "Recopa Sudamericana",
       "cantidad": 4,
       "titulo": "internacional"
-   } 
+   },
   {
       "id": 6,
       "nombre": "Otros Titulos Nacionales",
       "cantidad": 17,
       "titulo": "Nacional"
-   }
+   },
  {
       "id": 7,
       "nombre": "Otros Titulos Internacionales",
       "cantidad": 7,
       "titulo": "Internacional"
-   }
+   },
 ]
 }
