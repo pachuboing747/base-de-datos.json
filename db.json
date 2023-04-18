@@ -2,6 +2,7 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -10,30 +11,48 @@
   "profile": {
     "name": "typicode"
   },
-  "Datos": [
+  "titulos": [
    {
       "id": 1,
-      "a": "Club Atletico Boca Juniors",
-      "b": "fundado el 03 de Abril de 1903",
-      "c": "Apodo: Xeneize"
+      "nombre": "Primera Division",
+      "cantidad": 35,
+      "titulo": "Nacional"
    },
    {
       "id": 2,
-      "a": "Estadio: Alberto J.Armando",
-      "b": "Titulos Oficiales: 74",
-      "c": "Hinchada: La 12"
+      "nombre": "Copa Intercontinental ",
+      "cantidad": 3,
+      "titulo": "Internacional"
    },
-     {
+   {
       "id": 3,
-      "a": "Estadio: Alberto ",
-      "b": "Titulos Oficiales: 7",
-      "c": "Hinchada: La 1"
+      "nombre": "Libertadores",
+      "cantidad": 6,
+      "titulo": "Internacional"
    },
-     {
+   {
       "id": 4,
-      "a": "Estadio: Alberto J",
-      "b": "Titulos Oficiales: 4",
-      "c": "Hinchada: La 2"
-   },
+      "nombre": "Sudamericana",
+      "cantidad": 2,
+      "titulo": "internacional"
+   }
+     {
+      "id": 5,
+      "nombre": "Recopa Sudamericana",
+      "cantidad": 4,
+      "titulo": "internacional"
+   } 
+  {
+      "id": 6,
+      "nombre": "Otros Titulos Nacionales",
+      "cantidad": 17,
+      "titulo": "Nacional"
+   }
+ {
+      "id": 7,
+      "nombre": "Otros Titulos Internacionales",
+      "cantidad": 7,
+      "titulo": "Internacional"
+   }
 ]
 }
